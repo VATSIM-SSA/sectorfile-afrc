@@ -1,0 +1,5 @@
+===== AFRC | Africa Central | FSS =====
+
+{{tabembed>about|About,sectors|Sectors,rules|Rules,oceanic:aorra|AORRA,oceanic:upr|UPR,loa|Agreements,alias:fss|Alias}}
+
+{{page>fss-footer#AFRC}}

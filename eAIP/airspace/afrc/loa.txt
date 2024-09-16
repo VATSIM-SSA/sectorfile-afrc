@@ -1,0 +1,247 @@
+===== Africa Central Agreements =====
+
+==== External (Neighours) ====
+
+=== SBAO Atlantico ===
+
+^ From      ^ To        ^ Dest. ICAO    ^ Fix/Airway    ^ Agreement     ^ Conditions    ^ Remarks ^
+| **SECTOR INBOUND** |||||||
+| ICAO_CTR 	| ICAO_CTR  | ICAO          | -             | -              | -             | - |
+| **SECTOR OUTBOUND** |||||||
+| ICAO_CTR 	| ICAO_CTR  | ICAO          | -             |  -             | -             | - |
+| //Notes// |||||||
+
+=== HJJJ Juba ===
+
+^ From      ^ To        ^ Dest. ICAO    ^ Fix/Airway    ^ Agreement     ^ Conditions    ^ Remarks ^
+| **SECTOR INBOUND** |||||||
+| ICAO_CTR 	| ICAO_CTR  | ICAO          | -             |    -           | -             | - |
+| **SECTOR OUTBOUND** |||||||
+| ICAO_CTR 	| ICAO_CTR  | ICAO          | -             |    -           | -             | - |
+| //Notes// |||||||
+
+
+=== HAAA Addis Ababa ===
+
+  * Aircraft southbound from Canarias FIR have to establish contact will Nouakchott ACC 10 mn before reaching the UTA.
+
+^ From      ^ To        ^ Dest. ICAO    ^ Fix/Airway    ^ Agreement     ^ Conditions    ^ Remarks ^
+| **SECTOR INBOUND** |||||||
+| ICAO_CTR 	| ICAO_CTR  | ICAO          | -             |    -           | -             | - |
+| **SECTOR OUTBOUND** |||||||
+| ICAO_CTR 	| ICAO_CTR  | ICAO          | -             |    -           | -             | - |
+| //Notes// |||||||
+
+
+=== HCSM Mogadishu ===
+
+^ From      ^ To        ^ Dest. ICAO    ^ Fix/Airway    ^ Agreement     ^ Conditions    ^ Remarks ^
+| **SECTOR INBOUND** |||||||
+| ICAO_CTR 	| ICAO_CTR  | ICAO          | -             |     -          | -             | - |
+| **SECTOR OUTBOUND** |||||||
+| GQQQ_CTR 	| GMMM_W_CTR  | ALL | ECHED/UR975 | FL ODD | - | - |
+| GQQQ_CTR 	| GMMM_W_CTR  | ALL | BULIS/UR722 | FL ODD | - | - |
+| //Notes// |||||||
+
+=== VABX Mumbai Oceanic ===
+
+^ From      ^ To        ^ Dest. ICAO    ^ Fix/Airway    ^ Agreement     ^ Conditions    ^ Remarks ^
+| **SECTOR INBOUND** |||||||
+| ICAO_CTR 	| ICAO_CTR  | ICAO          | -             |     -          | -             | - |
+| **SECTOR OUTBOUND** |||||||
+| GQQQ_CTR 	| GMMM_W_CTR  | ALL | ECHED/UR975 | FL ODD | - | - |
+| GQQQ_CTR 	| GMMM_W_CTR  | ALL | BULIS/UR722 | FL ODD | - | - |
+| //Notes// |||||||
+
+
+==== External (Division) ====
+
+=== FIMM Mauritius ===
+
+^ From      ^ To        ^ Dest. ICAO    ^ Fix/Airway    ^ Agreement     ^ Conditions    ^ Remarks ^
+| **SECTOR INBOUND** |||||||
+| ICAO_CTR 	| ICAO_CTR  | ICAO          | -             |     -          | -             | - |
+| **SECTOR OUTBOUND** |||||||
+| ICAO_CTR 	| ICAO_CTR  | ICAO          | -             |    -           | -             | - |
+| //Notes// |||||||
+
+
+=== FMMM Antananarivo ===
+
+^ From      ^ To        ^ Dest. ICAO    ^ Fix/Airway    ^ Agreement     ^ Conditions    ^ Remarks ^
+| **SECTOR INBOUND** |||||||
+| ICAO_CTR 	| ICAO_CTR  | ICAO          | -             |   -            | -             | - |
+| **SECTOR OUTBOUND** |||||||
+| ICAO_CTR 	| ICAO_CTR  | ICAO          | -             |    -           | -             | - |
+| //Notes// |||||||
+
+
+=== GOOO Dakar Oceanic ===
+
+^ From      ^ To        ^ Dest. ICAO    ^ Fix/Airway    ^ Agreement     ^ Conditions    ^ Remarks ^
+| **SECTOR INBOUND** |||||||
+| ICAO_CTR 	| ICAO_CTR  | ICAO          | -             |    -           | -             | - |
+| **SECTOR OUTBOUND** |||||||
+| ICAO_CTR 	| ICAO_CTR  | ICAO          | -             |    -           | -             | - |
+| //Notes// |||||||
+
+
+=== FQBE Beira ===
+
+^ From      ^ To        ^ Dest. ICAO    ^ Fix/Airway    ^ Agreement     ^ Conditions    ^ Remarks ^
+| **SECTOR INBOUND** |||||||
+| ICAO_CTR 	| ICAO_CTR  | ICAO          | -             |    -           | -             | - |
+| **SECTOR OUTBOUND** |||||||
+| ICAO_CTR 	| ICAO_CTR  | ICAO          | -             |    -           | -             | - |
+| //Notes// |||||||
+
+=== FVHF Harare ===
+
+^ From      ^ To        ^ Dest. ICAO    ^ Fix/Airway    ^ Agreement     ^ Conditions    ^ Remarks ^
+| **SECTOR INBOUND** |||||||
+| ICAO_CTR 	| ICAO_CTR  | ICAO          | -             |    -           | -             | - |
+| **SECTOR OUTBOUND** |||||||
+| ICAO_CTR 	| ICAO_CTR  | ICAO          | -             |    -           | -             | - |
+| //Notes// |||||||
+
+=== FBGR Gaborone ===
+
+^ From      ^ To        ^ Dest. ICAO    ^ Fix/Airway    ^ Agreement     ^ Conditions    ^ Remarks ^
+| **SECTOR INBOUND** |||||||
+| ICAO_CTR 	| ICAO_CTR  | ICAO          | -             |    -           | -             | - |
+| **SECTOR OUTBOUND** |||||||
+| ICAO_CTR 	| ICAO_CTR  | ICAO          | -             |    -           | -             | - |
+| //Notes// |||||||
+
+=== FYWH Windhoek ===
+
+^ From      ^ To        ^ Dest. ICAO    ^ Fix/Airway    ^ Agreement     ^ Conditions    ^ Remarks ^
+| **SECTOR INBOUND** |||||||
+| ICAO_CTR 	| ICAO_CTR  | ICAO          | -             |    -           | -             | - |
+| **SECTOR OUTBOUND** |||||||
+| ICAO_CTR 	| ICAO_CTR  | ICAO          | -             |    -           | -             | - |
+| //Notes// |||||||
+
+=== FAJO Johannesburg Oceanic ===
+
+^ From      ^ To        ^ Dest. ICAO    ^ Fix/Airway    ^ Agreement     ^ Conditions    ^ Remarks ^
+| **SECTOR INBOUND** |||||||
+| ICAO_CTR 	| ICAO_CTR  | ICAO          | -             |    -           | -             | - |
+| **SECTOR OUTBOUND** |||||||
+| ICAO_CTR 	| ICAO_CTR  | ICAO          | -             |    -           | -             | - |
+| //Notes// |||||||
+
+=== DGAO Accra Oceanic ===
+
+^ From      ^ To        ^ Dest. ICAO    ^ Fix/Airway    ^ Agreement     ^ Conditions    ^ Remarks ^
+| **SECTOR INBOUND** |||||||
+| ICAO_CTR 	| ICAO_CTR  | ICAO          | -             |    -           | -             | - |
+| **SECTOR OUTBOUND** |||||||
+| ICAO_CTR 	| ICAO_CTR  | ICAO          | -             |    -           | -             | - |
+| //Notes// |||||||
+
+=== FCCC Brazzaville ===
+
+^ From      ^ To        ^ Dest. ICAO    ^ Fix/Airway    ^ Agreement     ^ Conditions    ^ Remarks ^
+| **SECTOR INBOUND** |||||||
+| ICAO_CTR 	| ICAO_CTR  | ICAO          | -             |    -           | -             | - |
+| **SECTOR OUTBOUND** |||||||
+| ICAO_CTR 	| ICAO_CTR  | ICAO          | -             |    -           | -             | - |
+| //Notes// |||||||
+
+
+==== Internal (AFRC) ====
+
+=== FSSS Seychelles ===
+
+^ From      ^ To        ^ Dest. ICAO    ^ Fix/Airway    ^ Agreement     ^ Conditions    ^ Remarks ^
+| **SECTOR INBOUND** |||||||
+| ICAO_CTR 	| ICAO_CTR  | ICAO          | -             |     -          | -             | - |
+| **SECTOR OUTBOUND** |||||||
+| ICAO_CTR 	| ICAO_CTR  | ICAO          | -             |   -            | -             | - |
+| //Notes// |||||||
+
+=== HKNA Nairobi ===
+
+^ From      ^ To        ^ Dest. ICAO    ^ Fix/Airway    ^ Agreement     ^ Conditions    ^ Remarks ^
+| **SECTOR INBOUND** |||||||
+| ICAO_CTR 	| ICAO_CTR  | ICAO          | -             |     -          | -             | - |
+| **SECTOR OUTBOUND** |||||||
+| ICAO_CTR 	| ICAO_CTR  | ICAO          | -             |   -            | -             | - |
+| //Notes// |||||||
+
+=== HUEC Entebbe ===
+
+^ From      ^ To        ^ Dest. ICAO    ^ Fix/Airway    ^ Agreement     ^ Conditions    ^ Remarks ^
+| **SECTOR INBOUND** |||||||
+| ICAO_CTR 	| ICAO_CTR  | ICAO          | -             |     -          | -             | - |
+| **SECTOR OUTBOUND** |||||||
+| ICAO_CTR 	| ICAO_CTR  | ICAO          | -             |   -            | -             | - |
+| //Notes// |||||||
+
+=== HTDC Tanzania ===
+
+^ From      ^ To        ^ Dest. ICAO    ^ Fix/Airway    ^ Agreement     ^ Conditions    ^ Remarks ^
+| **SECTOR INBOUND** |||||||
+| ICAO_CTR 	| ICAO_CTR  | ICAO          | -             |     -          | -             | - |
+| **SECTOR OUTBOUND** |||||||
+| ICAO_CTR 	| ICAO_CTR  | ICAO          | -             |   -            | -             | - |
+| //Notes// |||||||
+
+=== FZZA Kinshasa ===
+
+^ From      ^ To        ^ Dest. ICAO    ^ Fix/Airway    ^ Agreement     ^ Conditions    ^ Remarks ^
+| **SECTOR INBOUND** |||||||
+| ICAO_CTR 	| ICAO_CTR  | ICAO          | -             |     -          | -             | - |
+| **SECTOR OUTBOUND** |||||||
+| ICAO_CTR 	| ICAO_CTR  | ICAO          | -             |   -            | -             | - |
+| //Notes// |||||||
+
+=== FNAN Luanda ===
+
+^ From      ^ To        ^ Dest. ICAO    ^ Fix/Airway    ^ Agreement     ^ Conditions    ^ Remarks ^
+| **SECTOR INBOUND** |||||||
+| ICAO_CTR 	| ICAO_CTR  | ICAO          | -             |     -          | -             | - |
+| **SECTOR OUTBOUND** |||||||
+| ICAO_CTR 	| ICAO_CTR  | ICAO          | -             |   -            | -             | - |
+| //Notes// |||||||
+
+=== FLFI Lusaka ===
+
+^ From      ^ To        ^ Dest. ICAO    ^ Fix/Airway    ^ Agreement     ^ Conditions    ^ Remarks ^
+| **SECTOR INBOUND** |||||||
+| ICAO_CTR 	| ICAO_CTR  | ICAO          | -             |     -          | -             | - |
+| **SECTOR OUTBOUND** |||||||
+| ICAO_CTR 	| ICAO_CTR  | ICAO          | -             |   -            | -             | - |
+| //Notes// |||||||
+
+=== FWLL Lilongwe ===
+
+^ From      ^ To        ^ Dest. ICAO    ^ Fix/Airway    ^ Agreement     ^ Conditions    ^ Remarks ^
+| **SECTOR INBOUND** |||||||
+| ICAO_CTR 	| ICAO_CTR  | ICAO          | -             |     -          | -             | - |
+| **SECTOR OUTBOUND** |||||||
+| ICAO_CTR 	| ICAO_CTR  | ICAO          | -             |   -            | -             | - |
+| //Notes// |||||||
+
+=== HRYR Kigali ===
+
+^ From      ^ To        ^ Dest. ICAO    ^ Fix/Airway    ^ Agreement     ^ Conditions    ^ Remarks ^
+| **SECTOR INBOUND** |||||||
+| ICAO_CTR 	| ICAO_CTR  | ICAO          | -             |     -          | -             | - |
+| **SECTOR OUTBOUND** |||||||
+| ICAO_CTR 	| ICAO_CTR  | ICAO          | -             |   -            | -             | - |
+| //Notes// |||||||
+
+=== HBBA Bujumbura ===
+
+^ From      ^ To        ^ Dest. ICAO    ^ Fix/Airway    ^ Agreement     ^ Conditions    ^ Remarks ^
+| **SECTOR INBOUND** |||||||
+| ICAO_CTR 	| ICAO_CTR  | ICAO          | -             |     -          | -             | - |
+| **SECTOR OUTBOUND** |||||||
+| ICAO_CTR 	| ICAO_CTR  | ICAO          | -             |   -            | -             | - |
+| //Notes// |||||||
+
+
+{{page>fss-footer#AFRC}}
+

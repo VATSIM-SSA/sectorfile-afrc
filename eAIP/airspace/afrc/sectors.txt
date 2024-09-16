@@ -1,0 +1,51 @@
+===== Africa Central Sectors =====
+
+ * The Africa Central airspace is divided into the following sectors:
+
+==== FLFI Lusaka ====
+
+{{page>airspace:flfi:sectors#FLFI Lusaka Sector}}
+
+
+==== FNAN Luanda ====
+
+{{page>airspace:fnan:sectors#FNAN Luanda Sector}}
+
+
+==== FSSS Seychelles ====
+
+{{page>airspace:fsss:sectors#FSSS Seychelles Sector}}
+
+
+==== FWLL Lilongwe ====
+
+{{page>airspace:fwll:sectors#FWLL Lilongwe Sector}}
+
+
+==== FZZA Kinshasa ====
+
+{{page>airspace:fzza:sectors#FZZA Kinshasa Sector}}
+
+
+==== HBBA Bujumbura ====
+
+{{page>airspace:hbba:sectors#HBBA Bujumbura Sector}}
+
+
+==== HKNA Nairobi ====
+
+{{page>airspace:hkna:sectors#HKNA Nairobi Sector}}
+
+
+==== HRYR Kigali ====
+
+{{page>airspace:hryr:sectors#HRYR Kigali Sector}}
+
+
+==== HTDC Dar es Salaam====
+
+{{page>airspace:htdc:sectors#HTDC Dar es Salaam Sector}}
+
+ 
+
+{{page>fss:footer#AFRC}}

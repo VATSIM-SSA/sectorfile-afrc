@@ -1,0 +1,53 @@
+===== Africa Central Information =====
+
+Africa Central is one of three VATSSA Flight Service Stations serving the airspaces of [[country:angola:home|Angola]] ([[airspace:fnan:home|FNAN]]), [[country:burundi:home|Burundi]] ([[airspace:hbba:home|HBBA]]), [[country:congo-dr:home|Dem. Rep. of Congo]] ([[airspace:fzza:home|FZZA]]), [[country:kenya:home|Kenya]] ([[airspace:hkna:home|HKNA]]), [[country:malawi:home|Malawi]] ([[airspace:fwll:home|FWLL]]), [[country:rwanda:home|Rwanda]] ([[airspace:hryr:home|HRYR]]), [[country:st-helena:home|Saint Helena]] ([[airport:fhsh:home|FHSH]]), [[country:seychelles:home|Seychelles]] ([[airspace:fsss:home|FSSS]]), [[country:tanzania:home|Tanzania]] ([[airspace:htdc:home|HTDC]]), [[country:uganda:home|Uganda]] ([[airspace:huec:home|HUEC]]) and [[country:zambia:home|Zambia]] ([[airspace:flfi:home|FLFI]]).
+
+
+==== Airport Coverage ====
+
+Africa Central covers the following key airports:
+
+=== FLFI Lusaka ===
+
+{{page>country:angola:airports#Angola Airports}}
+
+=== FNAN Luanda ===
+
+{{page>country:angola:airports#Angola Airports}}
+
+=== FSSS Seychelles ===
+
+{{page>country:seychelles:airports#Seychelles Airports}}
+
+=== FWLL Lilongwe ===
+
+{{page>country:malawi:airports#Malawi Airports}}
+
+=== FZZA Kinshasa ===
+
+{{page>country:angola:airports#Angola Airports}}
+
+=== HBBA Bujumbura ===
+
+{{page>country:angola:airports#Angola Airports}}
+
+=== HKNA Nairobi ===
+
+{{page>country:kenya:airports#Kenya Airports}}
+
+=== HRYR Kigali ===
+
+{{page>country:angola:airports#Angola Airports}}
+
+=== HTDC Dar es Salaam ===
+
+{{page>country:angola:airports#Angola Airports}}
+
+=== HUEC Entebbe ===
+
+{{page>country:angola:airports#Angola Airports}}
+
+
+
+
+{{page>country:fss-footer#AFRC}}
