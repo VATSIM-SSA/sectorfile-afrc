@@ -1,5 +1,5 @@
 /GENERAL SETUP
-Setup_COOPANS=0
+Setup_COOPANS=1
 
 /UI SCALING
 /Credit to Liam Pickering for these settings!
