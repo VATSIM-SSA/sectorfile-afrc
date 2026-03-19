@@ -1,8 +1,6 @@
 /GENERAL SETUP
 Setup_COOPANS=1
-
-/UI SCALING
-/Credit to Liam Pickering for these settings!
+System_TransferConfirmation=0
 
 /Global Scaling
 System_GUI_Scale_GlobalMenu=0.95
@@ -143,7 +141,7 @@ Label_AHDG_Point_Label=2
 Label_AHDG_ShowExtra=1
 Label_CFL_DefaultValue=1
 Label_SI_ShowFreq=1
-Label_SI_FreqTime=1
+Label_SI_FreqTime=3
 Label_AFL_Buffer=300
 
 /Menus
