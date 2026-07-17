@@ -22,7 +22,7 @@
       "presence_small_image_key": "",
       "presence_large_image_key": "",
       "state": "",
-      "details": "Playing back files",
+      "details": "Playbacking back files",
       "presence_small_image_text": "",
       "presence_large_image_text": "Visit us at vatssa.com"
     },
@@ -30,7 +30,7 @@
       "presence_small_image_key": "",
       "presence_large_image_key": "",
       "state": "This is where it all begins!",
-      "details": "Currectly mentoring on Sweatbox",
+      "details": "Currently mentoring on Sweatbox",
       "presence_small_image_text": "",
       "presence_large_image_text": "Visit us at vatssa.com"
     },
@@ -63,7 +63,7 @@
         "presence_small_image_key": "",
         "presence_large_image_key": "",
         "state": "",
-        "details": "Supervising currently as {callsign}",
+        "details": "Supervisoring currectly as {callsign}",
         "presence_small_image_text": "",
         "presence_large_image_text": ""
       }
